@@ -1,0 +1,8 @@
+/* Global */
+@import "./utils/typography.css";
+@import "./utils/colors.css";
+@import "./global/global.css";
+
+/* Main */
+@import "./profile/profile.css";
+@import "./links/links.css";
