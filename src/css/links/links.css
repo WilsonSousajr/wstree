@@ -1,4 +1,6 @@
-
+.links{
+	padding: 0px 16px;
+}
 .link{
 	display: block;
 	text-align: center;

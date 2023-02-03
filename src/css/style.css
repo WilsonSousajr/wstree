@@ -6,3 +6,6 @@
 /* Main */
 @import "./profile/profile.css";
 @import "./links/links.css";
+
+/* Footer */
+@import "./footer/footer.css"
